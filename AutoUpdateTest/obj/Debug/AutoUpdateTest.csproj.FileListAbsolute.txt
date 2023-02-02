@@ -1,0 +1,11 @@
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\bin\Debug\AutoUpdateTest.exe.config
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\bin\Debug\AutoUpdateTest.exe
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\bin\Debug\AutoUpdateTest.pdb
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.AssemblyReference.cache
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.SuggestedBindingRedirects.cache
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.Form1.resources
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.Properties.Resources.resources
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.GenerateResource.cache
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.CoreCompileInputs.cache
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.exe
+D:\AutoUpdatePublish\testautoupdate\AutoUpdateTest\obj\Debug\AutoUpdateTest.pdb
