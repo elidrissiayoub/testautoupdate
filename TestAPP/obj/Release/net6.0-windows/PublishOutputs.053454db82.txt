@@ -1,0 +1,5 @@
+D:\AutoUpdatePublish\testautoupdate\TestAPP\bin\Release\net6.0-windows\app.publish\TestAPP.exe
+D:\AutoUpdatePublish\testautoupdate\TestAPP\bin\Release\net6.0-windows\app.publish\TestAPP.dll
+D:\AutoUpdatePublish\testautoupdate\TestAPP\bin\Release\net6.0-windows\app.publish\TestAPP.deps.json
+D:\AutoUpdatePublish\testautoupdate\TestAPP\bin\Release\net6.0-windows\app.publish\TestAPP.runtimeconfig.json
+D:\AutoUpdatePublish\testautoupdate\TestAPP\bin\Release\net6.0-windows\app.publish\TestAPP.pdb
