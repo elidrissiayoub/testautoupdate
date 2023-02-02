@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="TestAPP.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="TestAPP.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>gGf6Y6ghYDCXJlgnglM2+1p9Ix4P/0/n9kNk7ZlOnSg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TestAPP.dll" size="6656">
+  <file name="TestAPP.dll" size="6144">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4+fk+MxSUTX2AnAAZwM9Axx+9lLNmZxUutSwWaWb36w=</dsig:DigestValue>
+      <dsig:DigestValue>+kFiz1XUVmA3Gvb3R3QP/Anq5tGA2GDOQkxtMkfYGxk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TestAPP.exe" size="147968">
+  <file name="TestAPP.exe" size="147456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>s1+sg8p+IzK2KdthfgyNaFNdIJf8Q5yjXknrCYYuyhY=</dsig:DigestValue>
+      <dsig:DigestValue>hNnwFUCjAx5uoco6xeljKruxlSzvabCskTZpt7lz3tY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="TestAPP.runtimeconfig.json" size="372">
